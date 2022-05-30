@@ -8,7 +8,7 @@ function start() {
     "output/",
     { compress_force: false, statistic: true, autoupdate: true },
     false,
-    { jpg: { engine: "mozjpeg", command: ["-quality", "60"] } },
+    { jpg: { engine: "mozjpeg", command: ["-quality", "90"] } },
     { png: { engine: "pngquant", command: ["--quality=20-50", "-o"] } },
     { svg: { engine: "svgo", command: "--multipass" } },
     {
