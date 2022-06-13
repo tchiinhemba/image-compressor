@@ -1,0 +1,8 @@
+File from: [input/IMG_4395.jpg]
+
+File to: [output/IMG_4395.webp]
+
+Compression algorithm: [webp]
+
+Description: Error: Command failed: /home/tchiinhemba/GitHub/projects/image-compressor/node_modules/cwebp-bin/vendor/cwebp -quality 72 input/IMG_4395.jpg -o output/IMG_4395.webp
+Error! Unknown option '-quality'

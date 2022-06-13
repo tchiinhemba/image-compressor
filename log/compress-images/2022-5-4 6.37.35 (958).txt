@@ -1,0 +1,64 @@
+File from: [input/IMG_4215.jpg]
+
+File to: [output/IMG_4215.webp]
+
+Compression algorithm: [webp]
+
+Description: Error: Command failed: /home/tchiinhemba/GitHub/projects/image-compressor/node_modules/cwebp-bin/vendor/cwebp -quality 72 input/IMG_4215.jpg -o output/IMG_4215.webp
+Error! Unknown option '-quality'
+File from: [input/IMG_4214.jpg]
+
+File to: [output/IMG_4214.webp]
+
+Compression algorithm: [webp]
+
+Description: Error: Command failed: /home/tchiinhemba/GitHub/projects/image-compressor/node_modules/cwebp-bin/vendor/cwebp -quality 72 input/IMG_4214.jpg -o output/IMG_4214.webp
+Error! Unknown option '-quality'
+File from: [input/IMG_4213.jpg]
+
+File to: [output/IMG_4213.webp]
+
+Compression algorithm: [webp]
+
+Description: Error: Command failed: /home/tchiinhemba/GitHub/projects/image-compressor/node_modules/cwebp-bin/vendor/cwebp -quality 72 input/IMG_4213.jpg -o output/IMG_4213.webp
+Error! Unknown option '-quality'
+File from: [input/IMG_4212.jpg]
+
+File to: [output/IMG_4212.webp]
+
+Compression algorithm: [webp]
+
+Description: Error: Command failed: /home/tchiinhemba/GitHub/projects/image-compressor/node_modules/cwebp-bin/vendor/cwebp -quality 72 input/IMG_4212.jpg -o output/IMG_4212.webp
+Error! Unknown option '-quality'
+File from: [input/IMG_4211.jpg]
+
+File to: [output/IMG_4211.webp]
+
+Compression algorithm: [webp]
+
+Description: Error: Command failed: /home/tchiinhemba/GitHub/projects/image-compressor/node_modules/cwebp-bin/vendor/cwebp -quality 72 input/IMG_4211.jpg -o output/IMG_4211.webp
+Error! Unknown option '-quality'
+File from: [input/IMG_4210.jpg]
+
+File to: [output/IMG_4210.webp]
+
+Compression algorithm: [webp]
+
+Description: Error: Command failed: /home/tchiinhemba/GitHub/projects/image-compressor/node_modules/cwebp-bin/vendor/cwebp -quality 72 input/IMG_4210.jpg -o output/IMG_4210.webp
+Error! Unknown option '-quality'
+File from: [input/IMG_4209.jpg]
+
+File to: [output/IMG_4209.webp]
+
+Compression algorithm: [webp]
+
+Description: Error: Command failed: /home/tchiinhemba/GitHub/projects/image-compressor/node_modules/cwebp-bin/vendor/cwebp -quality 72 input/IMG_4209.jpg -o output/IMG_4209.webp
+Error! Unknown option '-quality'
+File from: [input/IMG_4208.jpg]
+
+File to: [output/IMG_4208.webp]
+
+Compression algorithm: [webp]
+
+Description: Error: Command failed: /home/tchiinhemba/GitHub/projects/image-compressor/node_modules/cwebp-bin/vendor/cwebp -quality 72 input/IMG_4208.jpg -o output/IMG_4208.webp
+Error! Unknown option '-quality'

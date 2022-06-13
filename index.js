@@ -6,9 +6,9 @@ function start() {
   compress_images(
     "input/**/*.{jpg,JPG,jpeg,JPEG,png,svg,gif}",
     "output/",
-    { compress_force: false, statistic: true, autoupdate: true },
+    { compress_force: true, statistic: true, autoupdate: true },
     false,
-    { jpg: { engine: "mozjpeg", command: ["-quality", "90"] } },
+    { jpg: { engine: "mozjpeg", command: ["-quality", "20"] } },
     { png: { engine: "pngquant", command: ["--quality=20-50", "-o"] } },
     { svg: { engine: "svgo", command: "--multipass" } },
     {
